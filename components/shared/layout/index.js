@@ -24,9 +24,10 @@ export const Layout = ({ children }) => {
       <div className={styles.toolbar}>
         <div>
           {loading
-            ? <Loading
+            ? <span><Loading
               size="xs"
-              color="currentColor" />
+              color="currentColor" /> Actualizando...
+              </span>
             : <Button
               auto
               size="xs"

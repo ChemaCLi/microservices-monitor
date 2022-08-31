@@ -18,7 +18,23 @@ const MOCKED_MICROSERVICES = [
     interruptedOrdersCount: 12
   },
   {
-    agentName: "SPLIT",
+    agentName: "SPLIT 2",
+    status: "OK"
+  },
+  {
+    agentName: "SPLIT 3",
+    status: "OK"
+  },
+  {
+    agentName: "SPLIT 4",
+    status: "OK"
+  },
+  {
+    agentName: "SPLIT 5",
+    status: "OK"
+  },
+  {
+    agentName: "SPLIT 6",
     status: "OK"
   }
 ]
