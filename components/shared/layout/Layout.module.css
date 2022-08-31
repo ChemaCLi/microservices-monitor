@@ -1,0 +1,19 @@
+.sidebar {
+  width: 10rem;
+  height: 100vh;
+  color: #fafafa;
+  padding: 0.5rem;
+  overflow-x: auto;
+  background: #222222;
+}
+
+.sidebar.item:hover {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.layoutMainContainer {
+  display: flex;
+  flex-direction: row;
+}
+
