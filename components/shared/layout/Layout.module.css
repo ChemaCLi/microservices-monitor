@@ -17,3 +17,12 @@
   flex-direction: row;
 }
 
+.container {
+  padding: 1rem;
+}
+
+.toolbar {
+  color: #fff;
+  background-color: #222222;
+  padding: 0.5rem 0.5rem 0.5rem 10rem;
+}
